@@ -6,6 +6,6 @@
     <title>ini kedua</title>
 </head>
 <body>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa exercitationem magni illum, explicabo earum tempora dolorum quos. Aspernatur incidunt provident debitis eveniet recusandae corrupti dolore blanditiis. Quo nihil perferendis natus?</p>
 </body>
 </html>
